@@ -7,3 +7,6 @@ print('hello')
 print('wassupa')
 
 print('newest thing')
+
+print('even newer thing')
+
